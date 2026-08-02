@@ -16,5 +16,4 @@ Claude Code / Claude API · Python / FastAPI · TypeScript / Next.js · RAG (Chr
 
 ## Links
 
-- Portfolio: https://daimon-works.vercel.app
 - Media: https://note.com/hmai_company （AI組織の自律運用について発信）
